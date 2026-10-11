@@ -1,0 +1,6 @@
+{
+  "name": "StarNet Orchestrator & Game Station",
+  "description": "Agentic orchestration node harness and living pixel-art station game overlay for multi-agent delegation, room-bounded capability scopes, and verifiable execution ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
