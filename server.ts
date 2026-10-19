@@ -27,9 +27,6 @@ const ai = apiKey
     })
   : null;
 
-console.log(`[StarNet Node] Initializing on port ${PORT}...`);
-console.log(`[StarNet Node] Server-Side Gemini API Key configured: ${Boolean(apiKey)}`);
-
 // Health & capabilities endpoint
 app.get('/api/status', (req, res) => {
   res.json({
